@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "dob": "1990-01-01",
+      "password": "hshigdjadb",
+      "id": "4f17"
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alicejohnson@example.com",
+      "dob": "1988-09-23",
+      "password": "password789",
+      "id": "b6ca"
+    },
+    {
+      "id": "edb8",
+      "name": "Rocky Sahu",
+      "email": "sahu@gmail.com",
+      "dob": "2001-08-08",
+      "password": "Sahu@123"
+    },
+    {
+      "id": "5b98",
+      "name": "JayaRam ",
+      "email": "ram@gmail.com",
+      "dob": "2001-08-29",
+      "password": "jayaram123"
+    },
+    {
+      "id": "f438",
+      "name": "Rahu Sahu",
+      "email": "rahul@gmail.com",
+      "dob": "2024-07-08",
+      "password": "12345678"
+    }
+  ]
+}
